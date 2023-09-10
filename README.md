@@ -1,0 +1,2 @@
+# EDA-project-Telecom-Churn-Analysis
+CAPSTONE PROJECT ON TELECOM CHURN ANALYSIS
